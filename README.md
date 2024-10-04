@@ -31,6 +31,6 @@ This is a simple Twitch chatbot that can respond to custom commands and integrat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/twitch_chatbot.git
+   git clone https://github.com/riddles2riches/twitch_chatbot.git
 
 
